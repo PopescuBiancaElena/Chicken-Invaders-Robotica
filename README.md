@@ -20,3 +20,6 @@ Jocul incepe cu un mesaj de incurajare sub el gasindu-se mesajul "Press Button".
 - Rezistenta 220 ohmi x 1
 - Fire tata-mama
 - Fire tata-tata
+
+## Video
+https://youtu.be/UKsZ6ujkqTI

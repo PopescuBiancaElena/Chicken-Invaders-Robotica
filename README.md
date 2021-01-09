@@ -1,4 +1,4 @@
-# Chicken_Invaders
+# Chicken Invaders
 ## Descriere
 
 Chicken Invaders este primul meu proiect. Scopul acestuia este de a reusi sa intri intr-o lume noua unde te vei intalni cu o invazie de gaini. Armele acestora sunt ouale care te vor putea ranii de cel mult 2 ori, ultima oara fiind fatala pentru tine. Provocarea este de a reusi sa treci toate cele trei levele cu bine pentru a putea avea o lume linistita, lipsita de invazie. Mult succes si nu iti face griji daca nu vei reusi din prima, jocul fiind mai dificil de la un level la altul, iti poti resetarta levelul dupa fiecare infrangere.
